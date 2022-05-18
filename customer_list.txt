@@ -1,0 +1,2 @@
+#!/bin/bash
+# Name of all employees in the accpunting department
